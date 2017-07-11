@@ -3,7 +3,7 @@ body {
 }
 
 .header h1 {
-  font-family: Veranda;
+  font: Veranda;
   font-weight: normal;
   font-size: 50px;
   text-align: center;
@@ -11,6 +11,7 @@ body {
 }
 
 .header p {
-  color: Aquamarine;
+  color: aquamarine;
   font-size: 16px;
+  text-align: center;
 }
