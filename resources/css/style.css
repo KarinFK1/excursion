@@ -3,10 +3,15 @@ body {
   font-family: verdana;
   text-align: center;
   color: white;
+  font-weight: normal;
 }
 
-.header h1 {
-  font-weight: normal;
+p {
+  color: gray;
+  font-size: 21px;
+}
+
+h1 {
   font-size: 50px;
 }
 
@@ -40,6 +45,4 @@ img {
 
 .footer p {
   text-align: right;
-  color:gray;
-  font-size: 21px;
 }
