@@ -1,9 +1,9 @@
 body {
   background-color: black;
+  font-family: verdana;
 }
 
 .header h1 {
-  font: Veranda;
   font-weight: normal;
   font-size: 50px;
   text-align: center;
