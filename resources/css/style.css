@@ -11,10 +11,24 @@ body {
 }
 
 .header p {
-  color: aquamarine;
+  color: blue;
   font-size: 16px;
 }
 
 video {
+  align-items: center;
+}
+
+.home-middle h1 {
+  font-weight: 300;
+  font-size: 42 px;
+}
+
+.home-middle p {
+  font-size: 21px;
+  color: gray;
+}
+
+img {
   align-items: center;
 }
