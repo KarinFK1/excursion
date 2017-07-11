@@ -32,3 +32,14 @@ video {
 img {
   align-items: center;
 }
+
+.home-bottom p {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.footer p {
+  text-align: right;
+  color:gray;
+  font-size: 21px;
+}
