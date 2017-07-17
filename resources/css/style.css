@@ -10,10 +10,6 @@ h1 {
   font-size: 50px;
 }
 
-video {
-  align-items: center;
-}
-
 .home-middle h1 {
   font-size: 42 px;
   font-weight: 300;
@@ -30,6 +26,7 @@ img {
 
 .footer p {
   text-align: right;
+  color: gray;
 }
 
 a {
