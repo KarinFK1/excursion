@@ -7,17 +7,12 @@ body {
 }
 
 p {
-  color: gray;
-  font-size: 21px;
+  color: aquamarine;
+  font-size: 16px;
 }
 
 h1 {
   font-size: 50px;
-}
-
-.video p {
-  color: blue;
-  font-size: 16px;
 }
 
 video {
@@ -36,11 +31,6 @@ video {
 
 img {
   align-items: center;
-}
-
-.home-bottom p {
-  color: aquamarine;
-  font-size: 16px;
 }
 
 .footer p {
